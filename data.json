@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "Apple",
+      "unit_price": 2,
+      "volume_discounts": [{ "number": 4, "price": 7 }],
+      "img": "https://res.cloudinary.com/john-mantas/image/upload/v1537291846/codepen/delicious-apples/green-apple-with-slice.png"
+    },
+    {
+      "id": 2,
+      "description": "Banana",
+      "unit_price": 12,
+      "volume_discounts": [],
+      "img": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-320-80.jpg"
+    },
+    {
+      "id": 3,
+      "description": "Cranberry",
+      "unit_price": 1.25,
+      "volume_discounts": [{ "number": 6, "price": 6 }],
+      "img": "https://www.oceanspray.com/-/media/Project/OS/Brand-Sites/OceanSpray/Master/Intl-Master/Our-Story/About-Cranberry/About-Cran-mobile.ashx?h=280&w=375&la=en&hash=222E016313DB9EB790C058CF420BBCE5CF190898"
+    },
+    {
+      "id": 4,
+      "description": "Durian",
+      "unit_price": 0.15,
+      "volume_discounts": [],
+      "img": "https://image.shutterstock.com/image-photo/durian-king-fruits-on-white-260nw-1096333247.jpg"
+    }
+  ]
+}
